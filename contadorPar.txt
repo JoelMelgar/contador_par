@@ -1,0 +1,6 @@
+Ingreso los numeros: 3 y 9
+Resultado: 3, 5, 7, 9, 
+
+Ingreso los numeros: 6 y 19
+Resultado: 6, 8, 10, 12, 14, 16, 18, 
+
